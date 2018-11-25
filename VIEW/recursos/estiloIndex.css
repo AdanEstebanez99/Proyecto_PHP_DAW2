@@ -1,0 +1,98 @@
+      body {background-image: url('imagenes/background.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: static;
+            margin: 0 auto;
+            width: 1200px;}
+
+
+      #titulo {font-family: 'Black Han Sans', sans-serif;
+               font-size: 52px;
+               color: white;
+               text-align: center;
+               width: 730px;
+               background-color: red;
+               margin-top: 60px;
+               padding-top: 20px;
+               padding-bottom: 20px;
+               border-top-left-radius: 40px;
+               border-top-right-radius: 40px;
+               text-shadow: 0px 0px 5px black;}
+
+
+      #menu {width: 680px;
+             height: 370px;
+             background-color: rgb(217, 220, 213);
+             border-bottom-left-radius: 40px;
+             border-bottom-right-radius: 40px;
+             padding-left: 30px;
+             padding-top: 30px;
+             padding-right: 20px;
+             font-family: 'Rubik', sans-serif;
+             font-size: 20px;}
+
+      .contenedor  {background-color: black;
+                    width: 730px;
+                    margin-left: -85px;
+                    border-radius: 40px;
+                    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.75);}
+
+
+      .enlaces {text-decoration: none;
+                color: black;
+                text-shadow: 0px 0px 1px red;}
+
+
+      .enlaces:hover {text-decoration: none;
+                      color: red;
+                      text-shadow: 0px 0px 1px white;
+                      font-size: 36px;}
+
+
+      .formIni {width: 325px;
+                text-align: center;
+                height: 240px;}
+
+
+      .ISES {font-size: 26px;}
+
+
+      .inp {width: 100px;
+            border-radius: 5px;
+            margin-top: 2px;
+            text-align: center;}
+
+
+      .boton {border-radius: 5px;
+              font-family: 'Rubik', sans-serif;
+              margin-top: 5px;
+              width: 75px;
+              height: 30px;
+              font-size: 16px;}
+
+
+      .boton:hover {background-color: red;
+                    color: white;}
+
+
+      .enRegistro {width: 295px;
+                   height: 200px;
+                   position: absolute;
+                   margin-top: -240px;
+                   margin-left: 345px;
+                   text-align: center;
+                   padding-top: 40px;
+                   font-size: 32px;
+                   padding-left: 15px;
+                   padding-right: 15px;}
+
+
+      #mensaje {width: 670px;
+                height: 60px;
+                position: absolute;
+                margin-top: 25px;
+                padding-top: 30px;
+                text-align: center;
+                color: red;}
+
+
