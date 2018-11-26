@@ -7,11 +7,16 @@ En el *"Index.php"* encontraras, por un lado, un enlace a la pestaña de registr
 para entrar al sitio web. Si te logueas incorrectamente aparecera un mensaje de error en el logueo debido a un usuario 
 o contraseña incorrectos.
 
+<img src="capturas/captura-index.PNG">
+
+
 ## REGISTRO
 
 En el formulario de registro encontraras unos campos, los cuales todos son obligatorios de rellenar, y el nombre de usuario es uncio,
 es decir, que si el nombre de usuario ya existe en la base de datos tendras que poner otro y aparecera un mensaje avisandote de esto.
 Si te registras correctamente te redirigira al index para que procedas con el registro.
+
+<img src="capturas/captura-formRegistro.PNG">
 
 
 ## MAIN
@@ -21,6 +26,11 @@ en que pagina te encuentras. Ademas si seleccionas alguno de los productos podra
 tambien en la parte superior izquierda de la web veras un mensaje de bienvenida ademas de la posibilidad de cerrar la sesion.
 y en esa zona tambien hay botones para acceder a la lista de los productos que tu hallas añadido a favoritos.
 
+<img src="capturas/captura-main.PNG">
+
+<img src="capturas/captura-paginacion.PNG">
+
+
 ## MOTO SELECCIONADA
 
 Una vez que hayas seleccionado una moto en la pestaña anterior te aparecera esta con una foto mas grande de la moto que has seleccionado,
@@ -28,11 +38,19 @@ junto con su nombre, la marca, y la modalidad de dicho producto. ademas justo de
 tu moto a favoritos, o eliminarlo, segun se de la situacion, el boton ademas de ser dinamico, cambia al instante su estado sin 
 necesitar refrescar la web.
 
+<img src="capturas/captura-añadirA.PNG">
+
+<img src="capturas/captura-eliminarD.PNG">
+
+
 ## GALERIA MOTOS FAVORITAS
 
 Si entras en la lista de tus productos favoritos veras una galeria similar a la que encontraste en el *"main.php"* solo que 
 con los productos que elegiste en favoritos y si haces click en ellos tendra el mismo efecto que si hacias click 
 sobre ellos en el *"main.php"*
+
+<img src="capturas/captura-motosFav.PNG">
+
 
 ## NOTAS Y COSAS A MEJORAR
 
